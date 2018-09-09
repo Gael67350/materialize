@@ -12,6 +12,7 @@
 *.esproj
 *.sublime-project
 *.sublime-workspace
+*.iml
 nbproject
 Thumbs.db
 
